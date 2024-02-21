@@ -4,7 +4,7 @@ Welcome to the "Miscellaneous Machine Learning Projects" repository! This collec
 
 # Project Highlights:
 
-# 1.# Blood Cell Image Classifier
+# 1. Blood Cell Image Classifier
 
 ## Overview
 This project aims to develop a machine learning model to classify different types of blood cells based on microscopic images. The classifier can be used for medical diagnosis, research, and educational purposes.
@@ -21,7 +21,7 @@ The dataset was split into training, validation, and testing sets. The model was
 ## Evaluation
 The performance of the model was assessed on the validation set to tune hyperparameters and prevent overfitting. The final model was evaluated on the testing set to measure its generalization ability. Confusion matrices and classification reports were analyzed to understand the model's strengths and weaknesses.
 
-# 2. # SkimLit
+# 2. SkimLit
 
 ## Overview
 SkimLit is a project that aims to summarize biomedical research papers using natural language processing (NLP) techniques. The goal is to create concise summaries of scientific literature to assist researchers and practitioners in keeping up with the latest developments in their fields.
