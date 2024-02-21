@@ -38,7 +38,7 @@ To use SkimLit, follow these steps:
 3. Receive a concise summary of the paper's main points.
 
 
-## <--Soon to be Updated on GitHub-->
+## <--------Soon to be Updated on GitHub-------->
 
 
 ### 3. Healthcare Predictive Modeling
@@ -75,10 +75,4 @@ To use SkimLit, follow these steps:
 
 Feel free to explore, contribute, and learn from these projects. Happy coding!
 
-## How to Use:
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/Miscellaneous_machine_learning_project.git
-   cd Miscellaneous_machine_learning_project
 
