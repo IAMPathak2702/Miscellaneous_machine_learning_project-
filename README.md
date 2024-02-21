@@ -2,15 +2,44 @@
 
 Welcome to the "Miscellaneous Machine Learning Projects" repository! This collection encompasses a variety of hands-on projects spanning diverse domains within machine learning. Each project explores different datasets, algorithms, and applications to provide a broad understanding of machine learning concepts.
 
-## Project Highlights:
+# Project Highlights:
 
-### 1. Image Classification for Custom Datasets
-   - Implement a convolutional neural network (CNN) for classifying custom image datasets.
-   - Explore techniques in image preprocessing, model architecture, and evaluation.
+# 1.# Blood Cell Image Classifier
 
-### 2. Sentiment Analysis on Social Media Data
-   - Dive into natural language processing (NLP) to analyze sentiment in social media text data.
-   - Develop a sentiment analysis model to classify tweets or comments as positive, negative, or neutral.
+## Overview
+This project aims to develop a machine learning model to classify different types of blood cells based on microscopic images. The classifier can be used for medical diagnosis, research, and educational purposes.
+
+## Dataset
+The dataset consists of microscopic images of various types of blood cells, including red blood cells, white blood cells (neutrophils, lymphocytes, monocytes, eosinophils, basophils), and platelets.
+
+## Model Architecture
+We utilized convolutional neural network (CNN) architectures such as ResNet, VGG, and MobileNet. Transfer learning techniques were applied to adapt pre-trained models to the specific task of blood cell classification.
+
+## Training
+The dataset was split into training, validation, and testing sets. The model was trained on the training data, optimizing the cross-entropy loss function using the Adam optimizer. Training progress was monitored using metrics like accuracy, loss, and validation accuracy.
+
+## Evaluation
+The performance of the model was assessed on the validation set to tune hyperparameters and prevent overfitting. The final model was evaluated on the testing set to measure its generalization ability. Confusion matrices and classification reports were analyzed to understand the model's strengths and weaknesses.
+
+# 2. # SkimLit
+
+## Overview
+SkimLit is a project that aims to summarize biomedical research papers using natural language processing (NLP) techniques. The goal is to create concise summaries of scientific literature to assist researchers and practitioners in keeping up with the latest developments in their fields.
+
+## Key Features
+- Utilizes advanced NLP models to extract key information from research papers.
+- Generates summaries that capture the main points of the articles.
+- Facilitates literature review processes and aids in research exploration and discovery.
+
+## Usage
+To use SkimLit, follow these steps:
+1. Input the biomedical research paper into the system.
+2. SkimLit will process the paper using NLP techniques.
+3. Receive a concise summary of the paper's main points.
+
+
+## <-----------------------------------Soon to be Updated on GitHub------------------------------------->
+
 
 ### 3. Healthcare Predictive Modeling
    - Predict the likelihood of diseases using healthcare datasets.
