@@ -38,7 +38,7 @@ To use SkimLit, follow these steps:
 3. Receive a concise summary of the paper's main points.
 
 
-## <-----------------------------------Soon to be Updated on GitHub------------------------------------->
+## <--Soon to be Updated on GitHub-->
 
 
 ### 3. Healthcare Predictive Modeling
